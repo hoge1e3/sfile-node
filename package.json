@@ -1,6 +1,6 @@
 {
   "name": "@hoge1e3/sfile-node",
-  "version": "1.4.4",
+  "version": "1.4.6",
   "description": "@hoge1e3/sfile for node.js",
   "license": "ISC",
   "author": "hoge1e3",
@@ -15,7 +15,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@hoge1e3/sfile": "^1.3.4"
+    "@hoge1e3/sfile": "^1.4.6"
   },
   "repository": {
     "type": "git",
