@@ -15,7 +15,7 @@
   },
   "devDependencies": {},
   "dependencies": {
-    "@hoge1e3/sfile": "^1.5.1"
+    "@hoge1e3/sfile": "^1.5.2"
   },
   "repository": {
     "type": "git",
